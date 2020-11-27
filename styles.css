@@ -39,7 +39,7 @@ header2 {
 background-color: #777;
   padding: 10px;
   text-align: center;
-  color: blue;
+  color: darkgrey;
 }
 
 footer {
@@ -60,8 +60,7 @@ body {background-color:#bebebe;}
 h1 {background-color:rgb(55,180,138); text-align:center; color:white;border:3px solid Violet;}
 h2 {text-align:center;color:white;background-color:darkgrey;}
 h3 {text-align:center;color:red;}
-h4 {text-align:center;color:black;}
-p {color:blue;}
+p {color:darkgrey;}
 
 /*style of table */
 #t01 
@@ -69,7 +68,7 @@ p {color:blue;}
 border: 1px solid black;
 width:100%;
 border-spacing:2px;
-color:red;
+color:black;
 background-color: #f1f1c1;
 }
 th, td {
