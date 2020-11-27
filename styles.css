@@ -59,7 +59,7 @@ footer {
 body {background-color:#bebebe;}
 h1 {background-color:rgb(55,180,138); text-align:center; color:white;border:3px solid Violet;}
 h2 {text-align:center;color:white;background-color:darkgrey;}
-h3 {text-align:center;color:red;}
+h3 {text-align:center;color:darkgrey;}
 p {color:darkgrey;}
 
 /*style of table */
