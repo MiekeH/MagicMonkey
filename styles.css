@@ -1,9 +1,10 @@
 header {
   background-color: #666;
-  padding: 20px;
+  padding: 30px;
   text-align: center;
   font-size: 21px;
   color: white;
+  height:600px;
 }
 
 
@@ -44,7 +45,7 @@ list-style-position: inside;
 }
 
 li {
-	color: darkgreen;
+	color: darkgrey;
 }
 
 article {
